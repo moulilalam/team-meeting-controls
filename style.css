@@ -13,7 +13,7 @@
     display: flex;
     flex-wrap: wrap;
     /* gap: 30px; */
-    margin-top: 250px;
+    /* margin-top: 250px; */
     /* margin-bottom: 300px; */
     color: white;
     background-color: black;
@@ -92,4 +92,11 @@ p{
     justify-content: center;
     border-radius: 0px 0px 5px 0px;
     /* flex-wrap: wrap; */
+}
+.sol{
+    display: flex;
+    /* border: 2px solid red; */
+    flex-direction: column;
+    justify-content: center;
+    height: 700px;
 }
